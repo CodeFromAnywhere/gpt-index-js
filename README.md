@@ -8,7 +8,7 @@ Coming soon!
 
 Inspired by https://github.com/jerryjliu/gpt_index
 
-All collaboration appreciated.
+All collaboration appreciated. Talk with me if you want to participate on this adventure: https://calendly.com/karsens
 
 # TODO
 
